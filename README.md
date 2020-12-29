@@ -1,2 +1,3 @@
 # py4e-assignments
-PY4E Class Assignments
+
+This is a repository of my assignments from Python For Everybody on Coursera
