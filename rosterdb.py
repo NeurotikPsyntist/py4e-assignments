@@ -29,7 +29,7 @@ cur.executescript('''
 ''')
 
 fname = input('Enter file name: ')
-if len(fname) < 1 : fname = 'roster_data.json'
+if len(fname) < 1 : fname = 'roster_data_sample.json'
 str_data = open(fname).read()
 json_data = json.loads(str_data)
 #print (json_data)
